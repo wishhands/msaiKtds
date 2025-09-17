@@ -2,13 +2,11 @@
 ## 이름 : 이덕용
 ## 프로젝트 제목 : ITO 개발 과제 분석🔍
 ### 📃 프로젝트 개요
-
 ## 주요 구성
-### Azure AI Search (Index)
-### Azure OpenAI (GPT-5.1-mini)
-### Azuer AI Service (Azure AI 문서 인텔리전스)
-### Streamlit UI (그래프, Chatbot 등)
-
+#### Azure AI Search (Index)
+#### Azure OpenAI (GPT-5.1-mini)
+#### Azuer AI Service (Azure AI 문서 인텔리전스)
+#### Streamlit UI (그래프, Chatbot 등)
 ## 메뉴구성
 ### 1. 월별 개발 과제 상태별 그래프
 #### azure search에 인덱스로 생성된 데이터를 조회하여 막대 및 라인 그래프 출력
